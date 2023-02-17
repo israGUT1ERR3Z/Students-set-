@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1664481500 source:d:\edya\conjuntosset\src\estudiante.cpp
+	"Estudiante.h"
+	<string>
+
+1664481770 d:\edya\conjuntosset\include\estudiante.h
+	<string>
+
+1664481282 source:d:\edya\conjuntosset\main.cpp
+	<iostream>
+	<set>
+	<cstdlib>
+	<string>
+	"Estudiante.h"
+
